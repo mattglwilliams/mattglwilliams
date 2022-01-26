@@ -1,4 +1,5 @@
 ### Hi there, Matt here 👋
+---
 
 ### About Me 💥
 - 🎓 I’m currently studying Full Stack Web Development at the University of Manchester Coding Bootcamp
