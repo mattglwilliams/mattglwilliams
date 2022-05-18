@@ -7,5 +7,5 @@
 - 📫 How to reach me: mattwilliamsdev@gmail.com
 - ⚡ Looking into: AWS, Next.js, game development
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattglwilliams&theme=buefy)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattglwilliams&theme=algolia)
 
