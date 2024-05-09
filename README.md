@@ -2,9 +2,9 @@
 ---
 
 ### About Me 💥
-- 🎓 I’m a recent graduate from the University of Manchester's Full Stack Web Development Coding Bootcamp
-- 👨🏻‍💻 Currently working as a Frontend Developer at JD Sports PLC
-- 📚 I’m currently learning MUI, Vue.js, Redux and GraphQL
+- 🎓 I’m a former graduate from the University of Manchester's Full Stack Web Development Coding Bootcamp
+- 👨🏻‍💻 Currently working as a Software Engineer at Vita Group
+- 📚 I’m currently learning Nest.js and GraphQL
 - ⚡ In the future, I am interested in learning game development
 - 📫 How to reach me: mattwilliamsdev@gmail.com
 
